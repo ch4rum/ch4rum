@@ -37,7 +37,7 @@
 <p align="center">
     <a href="https://blackarch.org/" target="_blank"> <img src="https://img.shields.io/badge/OS-BlackArch-informational?style=flat&logo=arch-linux&logoColor=white&color=2bbc8a"/> </a>
     <a href="https://www.kali.org/" target="_blank"> <img src="https://img.shields.io/badge/OS-Kali%20Linux-informational?style=flat&logo=kalilinux&logoColor=white&color=2bbc8a"/> </a>
-    <a href="https://parrotsec" target="_blank"> <img src="https://img.shields.io/badge/OS-Parrot-informational?style=flat&logo=debian&logoColor=white&color=2bbc8a"/> </a>
+    <a href="https://www.parrotsec.org/" target="_blank"> <img src="https://img.shields.io/badge/OS-Parrot-informational?style=flat&logo=debian&logoColor=white&color=2bbc8a"/> </a>
     <a href="https://www.microsoft.com/en-us/windows" target="_black"> <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a"></a>
     <a href="https://www.virtualbox.org/" target="_black"> <img src="https://img.shields.io/badge/VM-Virtual%20Box-informational?style=flat&logo=virtualbox&logoColor=white&color=2bbc8a"></a>
     <a href="https://www.python.org/" target="_blank"> <img src="https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a"/> </a>
